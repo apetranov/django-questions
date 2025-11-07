@@ -2,8 +2,6 @@
 
 > A local Django web app for anonymous questions and answers.
 
----
-
 ## ⚙️ Features
 - 📝 Post questions
 - 💬 Add answers

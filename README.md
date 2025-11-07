@@ -11,7 +11,7 @@
 
 ## 🚀 Run Locally
 ```bash
-git clone https://github.com/yourusername/django-questions.git
+git clone https://github.com/apetranov/django-questions.git
 cd django-questions
 python -m venv venv
 venv\Scripts\activate

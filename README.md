@@ -45,7 +45,7 @@ cd mysite
 python manage.py migrate
 ```
 
-Step 8: Run app and enjoy :)
+### Step 8: Run app and enjoy :)
 ```bash
 python manage.py runserver
 ```

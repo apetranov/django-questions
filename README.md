@@ -1,4 +1,4 @@
-# 💬 Django Questions
+# 🐍 Django Questions 💭
 
 > A local Django web app for anonymous questions and answers.
 

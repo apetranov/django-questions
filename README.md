@@ -1,4 +1,20 @@
-# 🐍 Django Questions 🤔
+# 💬 Django Questions
 
-## What is Django qestions❓
-A full stack Django app which allows users to anonymously post questions, answer questions and comment on answers.
+> A local Django web app for anonymous questions and answers.
+
+---
+
+## ⚙️ Features
+- 📝 Post questions
+- 💬 Add answers
+- 💭 Comment on answers
+
+## 🚀 Run Locally
+```bash
+git clone https://github.com/yourusername/django-questions.git
+cd django-questions
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python manage.py runserver
+```

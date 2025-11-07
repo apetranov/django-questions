@@ -1,0 +1,25 @@
+{% extends "wall/base.html" %}
+
+{% block body %}
+  <h1 class="text-4xl font-bold">🤔{{ question.title }}</h1>
+  <p class="text-2xl font-semibold">{{ question.content }}</p>
+
+  <h2 class="text-2xl font-semibold">💭Answers(click answer to open its comments)</h2>
+
+  <div class="flex flex-col justify-center items-center space-y-5">
+    {% for answer in answers %}
+        <a class="bg-gray-800 hover:bg-gray-700 p-5 rounded flex flex-col justify-center items-center" href="{% url 'comment_page' answer.id %}">
+          <span>{{ answer.content }}</span>
+          <span>{{ answer.created_at }}</span>
+        </a>
+    {% empty %}
+      <p>No answers yet.</p>
+    {% endfor %}
+  </div>
+
+  <a class="bg-indigo-600 hover:bg-indigo-400 p-5 rounded" href="{% url 'create_answer' question.id %}">Add answer</a>
+
+  <a class="bg-red-600 p-5 rounded hover:bg-red-400" href="/">Back to questions</a>
+{% endblock %}
+
+

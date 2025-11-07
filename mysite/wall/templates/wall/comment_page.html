@@ -1,0 +1,22 @@
+{% extends "wall/base.html" %}
+
+{% block body %}
+
+  <h1 class="text-3xl font-bold">💭{{ answer.content }}</h1>
+
+  <h2 class="text-2xl font-semibold">📝Comments</h2>
+  <ul class="flex flex-col justify-center items-center space-y-5">
+    {% for comment in comments %}
+      <li class="flex flex-col justify-center items-center bg-gray-700 p-5 rounded">
+         <span>{{ comment.content }}</span>
+         <span>{{ comment.created_at }}</span>
+      </li>
+    {% empty %}
+      <li>No comments yet.</li>
+    {% endfor %}
+  </ul>
+
+  <a class="bg-purple-700 hover:bg-purple-500 rounded p-5" href="{% url 'create_comment' answer.id %}">Add comment</a>
+  <a class="bg-indigo-600 hover:bg-indigo-400 rounded p-5" href="{% url 'question_detail' answer.question.id %}">Back to answers</a>
+
+{% endblock %}

@@ -9,7 +9,7 @@
 - 💬 Add answers
 - 💭 Comment on answers
 
-## 🚀 Run Locally
+## 🚀 Run Locally(you must have Python and pip installed)
 ```bash
 git clone https://github.com/apetranov/django-questions.git
 cd django-questions

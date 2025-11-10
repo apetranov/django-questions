@@ -62,8 +62,12 @@ python manage.py migrate
 python manage.py runserver
 ```
 ## 🤔 How to use the app?
-### 1. Creating a question
-To create a question click on Ask question on the home page
+
+### 1. Ask a question
+Click "Ask a question" button to open the question creation page.
 ![askquestion](https://github.com/user-attachments/assets/1d6f6b5a-42b1-4de0-aab2-c78b640e124d)
 
+### 2. Question creation
+To create a question fill both the title and content fields and click "Ask". You can also click "Back to questions" to go back to the questions page.
+![createquestion](https://github.com/user-attachments/assets/e53ea28d-8260-4f2b-9923-9d4f1b14c6eb)
 

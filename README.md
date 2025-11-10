@@ -91,7 +91,6 @@ Click on an answer to open its comments.
 On the comments page click either "Add comment" to create a comment or "Back to answers" to go back to the answers page for this question.
 ![addcomment](https://github.com/user-attachments/assets/893ac14e-8a1f-4218-a8c8-544ce688918f)
 
-
-
-
-
+### 8. Add comment
+Enter the content of your comment and click "Create comment" to create it. Or click "Back to comments" to go back to the comments for the specific answer.
+![createcomment](https://github.com/user-attachments/assets/6d11ebe5-c940-48b0-840f-dd9d33049ea6)

@@ -83,4 +83,11 @@ Click on "Add answer" to open the answer creation page or "Back to questions" to
 Fill up the content field and click on "Submit Answer" to create an answer. You can also click "Back to answers" to go back to the answers page for this question.
 ![answercreation](https://github.com/user-attachments/assets/d607ba9e-ffd5-4508-835c-56ee4700ddc7)
 
+### 6. Comments
+Click on an answer to open its comments.
+![clickcomment](https://github.com/user-attachments/assets/5911132b-33d6-4d38-9be1-946410366f91)
+
+
+
+
 

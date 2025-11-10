@@ -38,15 +38,15 @@ cd mysite
 ```
 
 ### Step 6.5: Create your .env file
-  # Copy the example environment file and edit it:
+  #### Copy the example environment file and edit it:
   ```bash
   cp .env.example .env
   ```
-  # Then open .env and set your secret key (you can generate one using Python):
+  #### Then open .env and set your secret key (you can generate one using Python):
     ```bash
     python -c "from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())"
     ```
-  # Paste that key into .env:
+  #### Paste that key into .env:
   ```bash
   SECRET_KEY=your-generated-secret-key
   DEBUG=True

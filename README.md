@@ -1,4 +1,4 @@
-![answercreation](https://github.com/user-attachments/assets/94977e29-a79a-4f27-b9eb-f2f0b7ce28ea)# 🐍 Django Questions 💭
+# 🐍 Django Questions 💭
 
 > A local Django web app for anonymous questions and answers.
 

@@ -61,7 +61,7 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
-## 🤔 How to use the app?
+# 🤔 How to use the app?
 
 ### 1. Ask a question
 Click "Ask a question" button to open the question creation page.

@@ -57,7 +57,7 @@ cd mysite
 python manage.py migrate
 ```
 
-### Step 8: Run app and enjoy :)
+### Step 8: Run app and enjoy :) (app runs on http://127.0.0.1:8000)
 ```bash
 python manage.py runserver
 ```

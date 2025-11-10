@@ -74,3 +74,8 @@ To create a question fill both the title and content fields and click "Ask". You
 ### 3. Answers
 Click on a question to open up the answers for that question.
 ![questioncreated](https://github.com/user-attachments/assets/768a7c40-4364-46e9-a5b4-3e491e51e174)
+
+### 4. Add answer
+Click on "Add answer" to open the answer creation page or "Back to questions" to go back to the questions page.
+![answer](https://github.com/user-attachments/assets/f141ad41-14fb-4995-8b05-51629ffd6904)
+

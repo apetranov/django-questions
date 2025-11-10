@@ -43,9 +43,8 @@ cd mysite
   cp .env.example .env
   ```
   #### Then open .env and set your secret key (you can generate one using Python):
-    ```bash
     python -c "from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())"
-    ```
+
   #### Paste that key into .env:
   ```bash
   SECRET_KEY=your-generated-secret-key

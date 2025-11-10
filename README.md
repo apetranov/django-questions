@@ -87,6 +87,10 @@ Fill up the content field and click on "Submit Answer" to create an answer. You 
 Click on an answer to open its comments.
 ![clickcomment](https://github.com/user-attachments/assets/5911132b-33d6-4d38-9be1-946410366f91)
 
+### 7. Comment creation
+On the comments page click either "Add comment" to create a comment or "Back to answers" to go back to the answers page for this question.
+![addcomment](https://github.com/user-attachments/assets/893ac14e-8a1f-4218-a8c8-544ce688918f)
+
 
 
 

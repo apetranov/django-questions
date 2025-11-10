@@ -71,3 +71,6 @@ Click "Ask a question" button to open the question creation page.
 To create a question fill both the title and content fields and click "Ask". You can also click "Back to questions" to go back to the questions page.
 ![createquestion](https://github.com/user-attachments/assets/e53ea28d-8260-4f2b-9923-9d4f1b14c6eb)
 
+### 3. Answers
+Click on a question to open up the answers for that question.
+![questioncreated](https://github.com/user-attachments/assets/768a7c40-4364-46e9-a5b4-3e491e51e174)

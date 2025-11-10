@@ -61,3 +61,9 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
+## 🤔 How to use the app?
+### 1. Creating a question
+To create a question click on Ask question on the home page
+![askquestion](https://github.com/user-attachments/assets/1d6f6b5a-42b1-4de0-aab2-c78b640e124d)
+
+
